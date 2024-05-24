@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\WindowForm C#\\Lab4-LTMCB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|d:\\windowform c#\\lab4-ltmcb\\lab4-webserver\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|solutionrelative:lab4-webserver\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|d:\\windowform c#\\lab4-ltmcb\\lab4-webserver\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|solutionrelative:lab4-webserver\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|d:\\windowform c#\\lab4-ltmcb\\lab4-webserver\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|solutionrelative:lab4-webserver\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,27 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai4.cs",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab4-LTMCB\\Lab4-webserver\\Bai4.cs",
+              "RelativeDocumentMoniker": "Lab4-webserver\\Bai4.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab4-LTMCB\\Lab4-webserver\\Bai4.cs",
+              "RelativeToolTip": "Lab4-webserver\\Bai4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:54:40.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai4.cs [Design]",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab4-LTMCB\\Lab4-webserver\\Bai4.cs",
+              "RelativeDocumentMoniker": "Lab4-webserver\\Bai4.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab4-LTMCB\\Lab4-webserver\\Bai4.cs [Design]",
+              "RelativeToolTip": "Lab4-webserver\\Bai4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:54:01.361Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Bai7.cs",
               "DocumentMoniker": "D:\\WindowForm C#\\Lab4-LTMCB\\Lab4-webserver\\Bai7.cs",
               "RelativeDocumentMoniker": "Lab4-webserver\\Bai7.cs",
               "ToolTip": "D:\\WindowForm C#\\Lab4-LTMCB\\Lab4-webserver\\Bai7.cs",
               "RelativeToolTip": "Lab4-webserver\\Bai7.cs",
-              "ViewState": "AQIAALsAAAAAAAAAAAAkwMwAAAAAAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAiwMwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T12:13:24.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Bai7.cs [Design]",
               "DocumentMoniker": "D:\\WindowForm C#\\Lab4-LTMCB\\Lab4-webserver\\Bai7.cs",
               "RelativeDocumentMoniker": "Lab4-webserver\\Bai7.cs",
               "ToolTip": "D:\\WindowForm C#\\Lab4-LTMCB\\Lab4-webserver\\Bai7.cs [Design]",
               "RelativeToolTip": "Lab4-webserver\\Bai7.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T12:06:04.03Z",
-              "EditorCaption": " [Design]"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T12:06:04.03Z"
             }
           ]
         }

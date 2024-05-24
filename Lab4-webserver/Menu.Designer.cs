@@ -94,6 +94,7 @@
             this.btnBai4.Text = "Bài 4: Quản lý phòng vé\r\n";
             this.btnBai4.TextAlign = System.Drawing.ContentAlignment.TopLeft;
             this.btnBai4.UseVisualStyleBackColor = true;
+            this.btnBai4.Click += new System.EventHandler(this.btnBai4_Click);
             // 
             // btnBai5
             // 
