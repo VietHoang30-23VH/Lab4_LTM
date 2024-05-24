@@ -53,5 +53,11 @@ namespace Lab4_webserver
             Bai7_Login bai7_login = new Bai7_Login();
             bai7_login.ShowDialog();
         }
+
+        private void btnBai4_Click(object sender, EventArgs e)
+        {
+            Bai4 bai4 = new Bai4();
+            bai4.ShowDialog();
+        }
     }
 }
