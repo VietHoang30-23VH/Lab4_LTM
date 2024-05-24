@@ -1,0 +1,78 @@
+D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\bin\Debug\Lab4-webserver.exe.config
+D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\bin\Debug\Lab4-webserver.exe
+D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\bin\Debug\Lab4-webserver.pdb
+D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\obj\Debug\Lab4-webserver.csproj.AssemblyReference.cache
+D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\obj\Debug\Lab4_webserver.Bai1.resources
+D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\obj\Debug\Lab4_webserver.Lab4.resources
+D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\obj\Debug\Lab4_webserver.Properties.Resources.resources
+D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\obj\Debug\Lab4-webserver.csproj.GenerateResource.cache
+D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\obj\Debug\Lab4-webserver.csproj.CoreCompileInputs.cache
+D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\obj\Debug\Lab4-webserver.exe
+D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\obj\Debug\Lab4-webserver.pdb
+D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\obj\Debug\Lab4_webserver.Bai2.resources
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\Lab4-webserver.exe.config
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\Lab4-webserver.exe
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\Lab4-webserver.pdb
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4-webserver.csproj.AssemblyReference.cache
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai1.resources
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai2.resources
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai3.resources
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Menu.resources
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Properties.Resources.resources
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4-webserver.csproj.GenerateResource.cache
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4-webserver.csproj.CoreCompileInputs.cache
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4-web.80DE1EF1.Up2Date
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4-webserver.exe
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4-webserver.pdb
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\HtmlAgilityPack.dll
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\HtmlAgilityPack.pdb
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\HtmlAgilityPack.xml
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\Newtonsoft.Json.dll
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\bin\Debug\Newtonsoft.Json.xml
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai5.resources
+D:\UIT_N2\LapTrinhMangCanBan\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai6.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\Lab4-webserver.exe.config
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\Lab4-webserver.exe
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\Lab4-webserver.pdb
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\HtmlAgilityPack.dll
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\Newtonsoft.Json.dll
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\HtmlAgilityPack.pdb
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\HtmlAgilityPack.xml
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\bin\Debug\Newtonsoft.Json.xml
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4-webserver.csproj.AssemblyReference.cache
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai1.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai2.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai3.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai5.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai6.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai7.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai7_AddFood.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai7_DisplayFood.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai7_Food.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai7_Login.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Bai7_SignUp.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Menu.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4_webserver.Properties.Resources.resources
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4-webserver.csproj.GenerateResource.cache
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4-webserver.csproj.CoreCompileInputs.cache
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4-web.80DE1EF1.Up2Date
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4-webserver.exe
+D:\WindowForm C#\Lab4-LTMCB\Lab4-webserver\obj\Debug\Lab4-webserver.pdb
