@@ -38,13 +38,6 @@ namespace Lab4_webserver
             txtDescribe.Clear();
         }
 
-        public event EventHandler FoodAdded;
-
-        private void OnFoodAdded()
-        {
-            FoodAdded?.Invoke(this, EventArgs.Empty);
-        }
-
         private async void btnAdd_Click(object sender, EventArgs e)
         {
             string apiUrl = "https://nt106.uitiot.vn/api/v1/monan/add";
@@ -70,7 +63,6 @@ namespace Lab4_webserver
             if (responses.IsSuccessStatusCode)
             {
                 MessageBox.Show("Thêm món thành công");
-                OnFoodAdded(); // Kích hoạt sự kiện
             }
             else
             {
