@@ -43,7 +43,7 @@ namespace Lab4_webserver
         {
 
 
-            _PhimList = DeserializeFromFileJson<List<Phim>>(@"D:\HK2_2024\laptrinhmangcanban\Lab4-WEbserver\Lab4-webserver\Lab4-webserver\data.json");
+            _PhimList = DeserializeFromFileJson<List<Phim>>(@"D:\WindowForm C#\Lab4_LTM\Lab4-webserver\data.json");
             if (_PhimList != null && _PhimList.Count > 0)
             {
 
