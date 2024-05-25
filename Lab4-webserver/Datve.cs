@@ -9,7 +9,7 @@ namespace Lab4_webserver
         public Datve()
         {
             InitializeComponent();
-            this.Load += new EventHandler(Datve_Load); // Ensure Datve_Load is assigned
+            this.Load += new EventHandler(Datve_Load);
         }
 
         public Dictionary<string, int> dsphim { get; set; }
@@ -23,7 +23,7 @@ namespace Lab4_webserver
             {
                 MessageBox.Show(string.Format("Khách hàng: {2}\nPhim: {0}\nPhòng: {4}\nVị trí ngồi: {3}\nGiá: {1}",
 
-               comboBox1.Text, dsphim[comboBox1.Text], txbhoten.Text, vitringoi, cbphong.Text));
+               comboBox1.Text, dsphim[comboBox1.Text]*sogheedachon.Length, txbhoten.Text, vitringoi, cbphong.Text));
             }
             else
             {
@@ -57,6 +57,21 @@ namespace Lab4_webserver
             {
                 MessageBox.Show("Danh sách phim trống.");
             }
+        }
+
+        private void btxoa_Click(object sender, EventArgs e)
+        {
+            comboBox1.Text = "";
+            comboBox1.SelectedItem = null;
+            cbphong.Text = "";
+            cbphong.SelectedItem=null;
+            txbhoten.Text="";
+            for (int i = 0; i < checkedListBox1.Items.Count; i++)
+            {
+                checkedListBox1.SetItemChecked(i, false);
+            }
+            
+            sogheedachon = new string[0];
         }
     }
 }

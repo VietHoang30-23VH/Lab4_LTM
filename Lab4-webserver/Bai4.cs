@@ -15,7 +15,7 @@ namespace Lab4_webserver
         public Bai4()
         {
             InitializeComponent();
-            _dsphim = new Dictionary<string, int>(); // Initialize the dictionary here
+            _dsphim = new Dictionary<string, int>(); 
 
             foreach (Control control in panel1.Controls)
             {
@@ -90,7 +90,7 @@ namespace Lab4_webserver
                     };
                     groupBox.Controls.Add(labelLink);
 
-                    // Populate the dictionary with movie name and price
+                   
                     _dsphim[phim.TenPhim] = phim.Giave;
 
 
