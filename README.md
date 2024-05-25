@@ -1,0 +1,2 @@
+Link Video minh họa:
+https://drive.google.com/file/d/1ndh1EB6cAT2zQHIE70g_Amw3DY5MOcix/view?fbclid=IwZXh0bgNhZW0CMTAAAR2vHHBu5XQMS8L8riaGVEl_JbUkYMMdSoTOyfVNEtUdn7b9Eq3nDegY6QE_aem_AabiLLnpolh6xmW1aNABL8n2Cfd3sjMEZGnt_I2mvkYjA5YiWj44dzHkwGy2U8DVCo1gvANcY0Cu9svAC3NWOiFO
