@@ -87,7 +87,8 @@
             "6",
             "7",
             "8",
-            "9"});
+            "9",
+            "10"});
             this.cbPageSize.Location = new System.Drawing.Point(574, 599);
             this.cbPageSize.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cbPageSize.Name = "cbPageSize";
@@ -106,7 +107,11 @@
             "3",
             "4",
             "5",
-            "6"});
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"});
             this.cbPage.Location = new System.Drawing.Point(400, 599);
             this.cbPage.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cbPage.Name = "cbPage";

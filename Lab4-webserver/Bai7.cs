@@ -220,9 +220,21 @@ namespace Lab4_webserver
                     string diachi = monAn.DiaChi;
                     string nguoidonggop = monAn.NguoiDongGop;
                     string imgurl = monAn.HinhAnh;
-                    PictureBox pictureBox = new PictureBox();
-                    pictureBox.Load(imgurl);
-                    pictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
+                    Console.WriteLine($"Image URL: {imgurl}");
+                    PictureBox pictureBox = null;
+                    try
+                    {
+                        if (!string.IsNullOrEmpty(imgurl))
+                        {
+                            pictureBox = new PictureBox();
+                            pictureBox.Load(imgurl);
+                            pictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"Error loading image: {ex.Message}");
+                    }
                     string information = $"{monan},{gia},{diachi},{nguoidonggop},{imgurl}";
                     thongtin.Add(information);
                     Addprogressbar(monan, gia, diachi, nguoidonggop, pictureBox);

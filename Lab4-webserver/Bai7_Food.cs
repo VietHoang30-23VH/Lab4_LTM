@@ -34,11 +34,16 @@ namespace Lab4_webserver
         }
         public void SetPictureBox(PictureBox picturebox)
         {
-            if (picturebox.Image != null)
+            if (picturebox != null && picturebox.Image != null)
             {
                 pictureBox1.Image = (Image)picturebox.Image.Clone();
                 pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
                 pictureBox1.Visible = true; // Đảm bảo PictureBox được hiển thị
+            }
+            else
+            {
+                pictureBox1.Image = null; // Đảm bảo không hiển thị ảnh nếu không có ảnh
+                pictureBox1.Visible = true; // Vẫn hiển thị PictureBox nhưng không có ảnh
             }
         }
     }
